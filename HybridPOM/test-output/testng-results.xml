@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+    <line>
+      <![CDATA[photo should be taken]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="234382" started-at="2018-10-03T08:40:24Z" finished-at="2018-10-03T08:44:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="234382" started-at="2018-10-03T08:40:24Z" finished-at="2018-10-03T08:44:18Z">
+      <class name="scripts.TVstand">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.TVstand@2a742aa2]" name="openapp" is-config="true" duration-ms="16511" started-at="2018-10-03T08:40:24Z" finished-at="2018-10-03T08:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.TVstand@2a742aa2]" name="test" duration-ms="14018" started-at="2018-10-03T08:40:40Z" finished-at="2018-10-03T08:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.TVstand@2a742aa2]" name="closeapp" is-config="true" duration-ms="762" started-at="2018-10-03T08:40:54Z" finished-at="2018-10-03T08:40:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=TVstand.test()[pri:0, instance:scripts.TVstand@2a742aa2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.TVstand -->
+      <class name="scripts.Productcomparision">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Productcomparision@2173f6d9]" name="openapp" is-config="true" duration-ms="16604" started-at="2018-10-03T08:43:41Z" finished-at="2018-10-03T08:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Productcomparision@2173f6d9]" name="test" duration-ms="17122" started-at="2018-10-03T08:43:58Z" finished-at="2018-10-03T08:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Productcomparision@2173f6d9]" name="closeapp" is-config="true" duration-ms="2934" started-at="2018-10-03T08:44:15Z" finished-at="2018-10-03T08:44:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Productcomparision.test()[pri:0, instance:scripts.Productcomparision@2173f6d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Productcomparision -->
+      <class name="scripts.Validlogin">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Validlogin@3dfc5fb8]" name="openapp" is-config="true" duration-ms="22902" started-at="2018-10-03T08:41:26Z" finished-at="2018-10-03T08:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Validlogin@3dfc5fb8]" name="test" duration-ms="17140" started-at="2018-10-03T08:41:49Z" finished-at="2018-10-03T08:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Validlogin@3dfc5fb8]" name="closeapp" is-config="true" duration-ms="676" started-at="2018-10-03T08:42:06Z" finished-at="2018-10-03T08:42:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Validlogin.test()[pri:0, instance:scripts.Validlogin@3dfc5fb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Validlogin -->
+      <class name="scripts.Modern">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Modern@3cb1ffe6]" name="openapp" is-config="true" duration-ms="15010" started-at="2018-10-03T08:40:55Z" finished-at="2018-10-03T08:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Modern@3cb1ffe6]" name="test" duration-ms="12828" started-at="2018-10-03T08:41:10Z" finished-at="2018-10-03T08:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Modern@3cb1ffe6]" name="closeapp" is-config="true" duration-ms="2972" started-at="2018-10-03T08:41:23Z" finished-at="2018-10-03T08:41:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Modern.test()[pri:0, instance:scripts.Modern@3cb1ffe6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Modern -->
+      <class name="scripts.Policy">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Policy@7e2d773b]" name="openapp" is-config="true" duration-ms="19527" started-at="2018-10-03T08:43:06Z" finished-at="2018-10-03T08:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Policy@7e2d773b]" name="test" duration-ms="12702" started-at="2018-10-03T08:43:26Z" finished-at="2018-10-03T08:43:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Policy@7e2d773b]" name="closeapp" is-config="true" duration-ms="2855" started-at="2018-10-03T08:43:39Z" finished-at="2018-10-03T08:43:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Policy.test()[pri:0, instance:scripts.Policy@7e2d773b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Policy -->
+      <class name="scripts.Productsize">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Productsize@4d50efb8]" name="openapp" is-config="true" duration-ms="17003" started-at="2018-10-03T08:42:31Z" finished-at="2018-10-03T08:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Productsize@4d50efb8]" name="test" duration-ms="17872" started-at="2018-10-03T08:42:48Z" finished-at="2018-10-03T08:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Productsize@4d50efb8]" name="closeapp" is-config="true" duration-ms="710" started-at="2018-10-03T08:43:06Z" finished-at="2018-10-03T08:43:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Productsize.test()[pri:0, instance:scripts.Productsize@4d50efb8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Productsize -->
+      <class name="scripts.Createacc">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Createacc@467aecef]" name="openapp" is-config="true" duration-ms="15334" started-at="2018-10-03T08:42:07Z" finished-at="2018-10-03T08:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Createacc@467aecef]" name="test" duration-ms="8209" started-at="2018-10-03T08:42:22Z" finished-at="2018-10-03T08:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Createacc@467aecef]" name="closeapp" is-config="true" duration-ms="657" started-at="2018-10-03T08:42:30Z" finished-at="2018-10-03T08:42:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Createacc.test()[pri:0, instance:scripts.Createacc@467aecef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[photo should be taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Createacc -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
